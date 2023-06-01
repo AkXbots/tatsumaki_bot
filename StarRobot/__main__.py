@@ -29,7 +29,7 @@ from telegram.ext.dispatcher import DispatcherHandlerStop, run_async
 from telegram.utils.helpers import escape_markdown
 from telethon import __version__ as tlhver
 
-import StarRobot.modules.sql.users_sql as sql
+
 from StarRobot import (
     BOT_NAME,
     BOT_USERNAME,
